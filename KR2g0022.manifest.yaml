@@ -1,0 +1,60 @@
+canonical_identifier: bkk:krp/KR2g0022/v1
+canonical_location: https://kanripo.org/bkk/KR2g0022/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 紹興十八年同年小錄
+  date: '2015-08-24 22:34:53.903095'
+  source:
+    repository: kanripo
+    path: KR2g0022
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2g0022_000.yaml, hash: 'sha256:e82cd4d03d4fa1195bfc6e66528ec2a3f19f10063c58248dc9e9077a8fad3f40'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2g0022_000.markers.yaml, hash: 'sha256:5b50db30a7d8e00d41d207e3c112c9b0e0929266f451d30fe1226a90cd79cd25'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2g0022_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 491
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0022_WYG_000-3a
+    span:
+    - body
+    - 491
+    - 1726
+  label: 御筆手詔
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0022_WYG_000-7a
+    span:
+    - body
+    - 1726
+    - 39272
+  label: 紹興十八年同年小録
+  type: section
+  level: 1
+hash: sha256:44adf4fda95a2eacc4a5dace99f0444bce78097cb7ddb56e44356589ec16cdee
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
