@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2g0022_000.yaml, hash: 'sha256:e82cd4d03d4fa1195bfc6e66528ec2a3f19f10063c58248dc9e9077a8fad3f40'}
+  - {seq: 0, filename: KR2g0022_000.yaml, hash: 'sha256:44fe7931d9e8033bb04bc2a3fdd9dec1499bb9494e54623757538fd9d42e46d0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2g0022_000.markers.yaml, hash: 'sha256:5b50db30a7d8e00d41d207e3c112c9b0e0929266f451d30fe1226a90cd79cd25'}
+  - {seq: 0, role: markers, filename: assets/KR2g0022_000.markers.yaml, hash: 'sha256:b7ba5d6b4c22ecea95f7ea77a04edfd67bbdb1ccb3fdf340b1907282d7690043'}
 table_of_contents:
 - ref:
     seq: 0
@@ -54,7 +54,4 @@ table_of_contents:
   label: 紹興十八年同年小録
   type: section
   level: 1
-hash: sha256:44adf4fda95a2eacc4a5dace99f0444bce78097cb7ddb56e44356589ec16cdee
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:daaf6c98d5a8373550a555a987526c814382e3069de1a083373bcf2e6df9fe96
