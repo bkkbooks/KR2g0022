@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2g0022/v1
 canonical_location: https://kanripo.org/bkk/KR2g0022/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 紹興十八年同年小錄
   date: '2015-08-24 22:34:53.903095'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2g0022_000.yaml, hash: 'sha256:44fe7931d9e8033bb04bc2a3fdd9dec1499bb9494e54623757538fd9d42e46d0'}
+  - {seq: 0, filename: KR2g0022_000.yaml, hash: 'sha256:5345e523e2f88453c0dffeb81a0973bd5f36b1061e77253e34d5a101bff3d43e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2g0022_000.markers.yaml, hash: 'sha256:b7ba5d6b4c22ecea95f7ea77a04edfd67bbdb1ccb3fdf340b1907282d7690043'}
+  - {seq: 0, role: markers, filename: assets/KR2g0022_000.markers.yaml, hash: 'sha256:2d44cf2a1ccbce6317c3022560f09a70ca6c20cb50192107cb299d5097523d51'}
 table_of_contents:
 - ref:
     seq: 0
@@ -54,4 +54,7 @@ table_of_contents:
   label: 紹興十八年同年小録
   type: section
   level: 1
-hash: sha256:daaf6c98d5a8373550a555a987526c814382e3069de1a083373bcf2e6df9fe96
+hash: sha256:62bf2c357c788f57be1ed6080c4cb9d68c9ea34dd6bf5f66f69eaa7eadb06d90
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
