@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2g0022_000.yaml, hash: 'sha256:5345e523e2f88453c0dffeb81a0973bd5f36b1061e77253e34d5a101bff3d43e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2g0022_000.markers.yaml, hash: 'sha256:2d44cf2a1ccbce6317c3022560f09a70ca6c20cb50192107cb299d5097523d51'}
+  - {seq: 0, role: markers, filename: assets/KR2g0022_000.markers.yaml, hash: 'sha256:4617b610b922916a58883d68e7f7271eb7246beb16dc82af65dcae33493cffae'}
 table_of_contents:
 - ref:
     seq: 0
@@ -54,7 +54,7 @@ table_of_contents:
   label: 紹興十八年同年小録
   type: section
   level: 1
-hash: sha256:62bf2c357c788f57be1ed6080c4cb9d68c9ea34dd6bf5f66f69eaa7eadb06d90
+hash: sha256:d445cd9c1f69019caf5e8c1c07020d670c69b6eba854eb6654b86d4b3b2083dd
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

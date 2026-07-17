@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2g0022_000-WYG.yaml, hash: 'sha256:908bc64f1c70255a6c3ccf8964efc3c96932a6ce3bc35dde11e9f8480be6651a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2g0022_000-WYG.markers.yaml, hash: 'sha256:c85b96d3c107d1276099fddc32eef62a53c224cdb74278b089171cca2f438368'}
+  - {seq: 0, role: markers, filename: assets/KR2g0022_000-WYG.markers.yaml, hash: 'sha256:4030ef1f0b0e2ef91c106906b3bea80f55f5fec40058276ba7809c4649a9f523'}
 table_of_contents:
 - ref:
     seq: 0
@@ -51,4 +51,4 @@ table_of_contents:
   label: 紹興十八年同年小録
   type: section
   level: 1
-hash: sha256:6c0ae74dc80842611184ab845f6bbbd2458a7050ffd9d3143b46f1ad4dab6c8c
+hash: sha256:352544c7fe00758c68bbd24ffd1849496212687541af233294c4ba1d3c851fef
